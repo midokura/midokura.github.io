@@ -1,0 +1,41 @@
+Origin: Edge Virtualization Platform
+Label: Edge Virtualization Platform
+Suite: stable
+Codename: bookworm
+Date: Fri, 16 May 2025 09:12:52 UTC
+Architectures: arm64 armhf
+Components: main
+Description: Edge Virtualization Platform
+MD5Sum:
+ 3789369bf6f060628d34b62899200b7e 3800 main/binary-arm64/Packages
+ 30397d9f3be7d0aa16931bced80cf9ed 1730 main/binary-arm64/Packages.gz
+ 876ead8ad1e084ba8e96cc402054390b 167 main/binary-arm64/Release
+ 96a7ae7133912c2c6a77450e9a625067 1605 main/binary-armhf/Packages
+ dcc4cb81c4f9a6cd76d2b774941e9dc0 813 main/binary-armhf/Packages.gz
+ f868bf9f371974992e5c0f6d2164d5d6 167 main/binary-armhf/Release
+ 35338c151a0cbef086ca068d41d95ba1 278053 main/Contents-arm64
+ 5cc8824d95be80e626010b4bf132c76b 16424 main/Contents-arm64.gz
+ e04c331f994b179b1284453c95c5753b 7978 main/Contents-armhf
+ 33438d13ca2c8fef162dfa312254bf6c 825 main/Contents-armhf.gz
+SHA1:
+ 0acbb15501d0b84cc0bc4737e0e6590263416c80 3800 main/binary-arm64/Packages
+ f914bac019db647740c2bcb518be7e5157a0bb30 1730 main/binary-arm64/Packages.gz
+ cda137274332ab631694c5168d4de8226a0c43e7 167 main/binary-arm64/Release
+ 9eb910bd8312c14e5b5482c693cf4ed7509152e2 1605 main/binary-armhf/Packages
+ a3e8d6430e427e4f28ef98a42819b4ba226ad2ec 813 main/binary-armhf/Packages.gz
+ 14f79ec420066010fbb3ae65901f5c5d03ff79ab 167 main/binary-armhf/Release
+ f9621d15cd8e27a87177164f945f47d6fa988743 278053 main/Contents-arm64
+ 80401542e866c4758a386126b4c73de644fdc870 16424 main/Contents-arm64.gz
+ 6f54a28d83e699eeb54fd5700efb3a222c269a67 7978 main/Contents-armhf
+ 9ee27a2aaf6b6d1fcb7d85d06974028455f47e86 825 main/Contents-armhf.gz
+SHA256:
+ e86b28da7af1d0e2ba1670ee13d3b41f97c8a79cf410da530ff9cb0b3dcc550c 3800 main/binary-arm64/Packages
+ ec18e13e6b21fdd97f45ec3fb4d67c97546f1204b0329ac4d11c2e2606b89d95 1730 main/binary-arm64/Packages.gz
+ 91554ac4676a7a94085bc212adf12b78f4db85ce8af477c7755380b200ed4f97 167 main/binary-arm64/Release
+ d5ed3367cf2a44829fd7dfea03de46b87aeff6df406451f180580038c6daa9e4 1605 main/binary-armhf/Packages
+ 1ce32d9c1a9046c3d03c032ee6c2bc912bcdcbaeadcf9ecf7b8171ee7fcb1eaf 813 main/binary-armhf/Packages.gz
+ 3b7c9e6db75e1aba89f916a6aa8989a72cd5b66b7e5013a30ff2dcaaee171152 167 main/binary-armhf/Release
+ 319c91af345c83ddfb5058ead0683cc03bb9f5b6d8b962538d63148bb172fe0c 278053 main/Contents-arm64
+ 3dc922c5b6c58f419e7c7b5ff9d68a39b7d523faed3b674f95c6faa31879aaeb 16424 main/Contents-arm64.gz
+ 258b1bfc82b046d94d50e2248aab38905cabb0355f7e5c0ab9f1674c116414fc 7978 main/Contents-armhf
+ 01c7cbc2d5903e0fd945ee23cdc5923c5fe554fe7295f5f1379d143a3f95de5f 825 main/Contents-armhf.gz

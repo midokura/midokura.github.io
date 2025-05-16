@@ -1,0 +1,10 @@
+Codename: bookworm
+Suite: stable
+Architectures: arm64 armhf
+Components: main
+Contents:
+SignWith: 3A81B438A9A1074F0E389DB476A61338DBF7A5F9
+Origin: Edge Virtualization Platform 
+Label: Edge Virtualization Platform
+Description: Edge Virtualization Platform
+

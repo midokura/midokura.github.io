@@ -1,0 +1,118 @@
+Package: evp-agent
+Version: 1.45.0
+Architecture: arm64
+Maintainer: Sony Semiconductor Solutions <engineering@midokura.com>
+Depends: libc6 (>= 2.35), ca-certificates
+Vcs-Browser: https://github.com/SonySemiconductorSolutions/edge-virtualization-platform
+Vcs-Git: https://github.com/SonySemiconductorSolutions/edge-virtualization-platform
+Priority: optional
+Section: contrib/misc
+Filename: pool/main/e/evp-agent/evp-agent_1.45.0_arm64.deb
+Size: 1788580
+SHA256: 3a478201bb2d3082c4f124c0e3f195d2d82637362d21ef4dd0cdcaacddc7d68d
+SHA1: 5709bc8caadff50338804dbd843c2306f501e9e1
+MD5sum: d56dff989228b72714aea5647ed264dd
+Description: EVP Agent for IoT Devices
+ This package provides the EVP Agent which allows running
+ workloads on edge devices for use in AI apps.
+
+Package: evp-archive-keyring
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Midokura <info@midokura.com>
+Priority: optional
+Section: misc
+Filename: pool/main/e/evp-archive-keyring/evp-archive-keyring_1.0.0-1_all.deb
+Size: 2700
+SHA256: d310b6af99747548bcc4a74d5de264dcbbc362de4a46715fb0fc5d486f8522b8
+SHA1: 226d4f824c0a9dc47eda4dd773af2cdd1e583df1
+MD5sum: a9369565ea48471ab14d419b753f592b
+Description: OpenPGP archive certificates of evp
+ evp digitally signs its Release files. This package
+ contains the archive certificates used for that.
+
+Package: python3-evp-app
+Source: evp-app
+Version: 1.0.0-1
+Architecture: arm64
+Maintainer: None <None>
+Installed-Size: 273
+Depends: python3 (<< 3.12), python3 (>= 3.11~), python3:any, libc6 (>= 2.34)
+Homepage: None
+Priority: optional
+Section: python
+Filename: pool/main/e/evp-app/python3-evp-app_1.0.0-1_arm64.deb
+Size: 67184
+SHA256: 634ab045b6fa0453dae38c2ffcfe93102c11d11756f69fb3d40acb08b1602881
+SHA1: 5edcf5bff4ba04e367a00d7909a997dcb9ce3140
+MD5sum: 0e54f4096a8973b40a123c06b707d4b5
+Description: Edge Virtural Platform Application SDK for Python
+ <!--
+ SPDX-FileCopyrightText: 2023-2024 Sony Semiconductor Solutions Corporation
+ .
+ SPDX-License-Identifier: Apache-2.0
+ -->
+ .
+ # EVP Module Python SDK
+ .
+ ## How to build
+ .
+ First, build evp-agent, in the root of the repo, do:
+ .
+ ```bash
+ make KBUILD_DEFCONFIG=configs/linux-docker.config
+ ```
+ .
+ This will build the dependencies, the SDK and the Agent with support for the "Remote SDK"
+ .
+ Install cython dependencies:
+
+Package: python3-senscord
+Source: senscord
+Version: 1.10.0-1
+Architecture: all
+Maintainer: None <None>
+Installed-Size: 225
+Depends: python3-msgpack, python3:any
+Homepage: None
+Priority: optional
+Section: python
+Filename: pool/main/s/senscord/python3-senscord_1.10.0-1_all.deb
+Size: 28892
+SHA256: ddc930e887f1575742b359c5c126c5eec2c3ac1c0f67954b92a33d0dd37d571a
+SHA1: 5b9e7fbb5c0fc18f1f540ce81b84c705b3373fdd
+MD5sum: f5904a165af937c0cd85812bec8258e3
+Description: SensCord SDK
+ SensCord SDK
+
+Package: senscord-libcamera
+Version: 1.0.2
+Architecture: arm64
+Maintainer: Midokura <info@midokura.com>
+Priority: optional
+Section: base
+Filename: pool/main/s/senscord-libcamera/senscord-libcamera_1.0.2_arm64.deb
+Size: 14440628
+SHA256: cbfe6fb72229ae7688f1930b6fdc1f983604061acdbe80d002d0c99fb6b1a507
+SHA1: 8047e725aeb636cb19293244ae31c0a1e0b0b9f0
+MD5sum: 750af94d9837fcc2d55cd7e1d86a4164
+Description: Senscord package with libcamera, wasm, and related tools.
+
+Package: system-stub
+Source: system-stub
+Maintainer: Console Experience team <engineering@midokura.com>
+Build-Depends: python3-venv, python3-setuptools, python3-all
+Standards-Version: 3.9.6
+Homepage: None
+Architecture: all
+Depends: python3-picamera2
+Priority: optional
+Section: python
+Filename: pool/main/s/system-stub/system-stub_0.0.0_all.deb
+Size: 23218
+SHA256: 3f629990e8555dbc222cf46224fc42582d750c8e002a2e1252017951b20ec152
+SHA1: 982a9b836ee45fcdd41c4832510f81b1857232c0
+MD5sum: 58578d39c9afb0e071a125c9b0badf97
+Description: RPi System App system-stub
+Version: 0.0.0
+
