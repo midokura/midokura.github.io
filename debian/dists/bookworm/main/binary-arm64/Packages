@@ -78,10 +78,10 @@ Homepage: None
 Priority: optional
 Section: python
 Filename: pool/main/s/senscord/python3-senscord_1.10.0-1_all.deb
-Size: 28892
-SHA256: ddc930e887f1575742b359c5c126c5eec2c3ac1c0f67954b92a33d0dd37d571a
-SHA1: 5b9e7fbb5c0fc18f1f540ce81b84c705b3373fdd
-MD5sum: f5904a165af937c0cd85812bec8258e3
+Size: 28896
+SHA256: 766f9c2edfae7f5ac235f973e5614560400dd62e161e08fd85edf9dada457838
+SHA1: 678c58158891da18311d83bf3c4537d9efbe2df6
+MD5sum: f941513d3754317f7dcf657fdcb5aed4
 Description: SensCord SDK
  SensCord SDK
 
@@ -92,10 +92,10 @@ Maintainer: Midokura <info@midokura.com>
 Priority: optional
 Section: base
 Filename: pool/main/s/senscord-libcamera/senscord-libcamera_1.0.2_arm64.deb
-Size: 14440628
-SHA256: cbfe6fb72229ae7688f1930b6fdc1f983604061acdbe80d002d0c99fb6b1a507
-SHA1: 8047e725aeb636cb19293244ae31c0a1e0b0b9f0
-MD5sum: 750af94d9837fcc2d55cd7e1d86a4164
+Size: 14454824
+SHA256: cc4d1475c2c1370df63986e3cb5e7f7113b9b1fdf415a20f84241f00b0d0b4ca
+SHA1: dae62843d18f00f98f71e17e1f6f4e1509221a43
+MD5sum: 2d34f213c323d586374190dcfafeffb5
 Description: Senscord package with libcamera, wasm, and related tools.
 
 Package: system-stub

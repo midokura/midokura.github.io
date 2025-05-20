@@ -24,10 +24,10 @@ Homepage: None
 Priority: optional
 Section: python
 Filename: pool/main/s/senscord/python3-senscord_1.10.0-1_all.deb
-Size: 28892
-SHA256: ddc930e887f1575742b359c5c126c5eec2c3ac1c0f67954b92a33d0dd37d571a
-SHA1: 5b9e7fbb5c0fc18f1f540ce81b84c705b3373fdd
-MD5sum: f5904a165af937c0cd85812bec8258e3
+Size: 28896
+SHA256: 766f9c2edfae7f5ac235f973e5614560400dd62e161e08fd85edf9dada457838
+SHA1: 678c58158891da18311d83bf3c4537d9efbe2df6
+MD5sum: f941513d3754317f7dcf657fdcb5aed4
 Description: SensCord SDK
  SensCord SDK
 
