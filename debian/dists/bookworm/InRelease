@@ -5,54 +5,54 @@ Origin: Edge Virtualization Platform
 Label: Edge Virtualization Platform
 Suite: stable
 Codename: bookworm
-Date: Tue, 20 May 2025 06:51:02 UTC
+Date: Thu, 22 May 2025 11:54:19 UTC
 Architectures: arm64 armhf
 Components: main
 Description: Edge Virtualization Platform
 MD5Sum:
- dc9e14c61029360219aea177795c6a2d 3800 main/binary-arm64/Packages
- 28d0ad5bd2964a2de6df77cf1ea686cb 1728 main/binary-arm64/Packages.gz
+ 9591d6fa91f23fb379a93b7cfa183f4c 4395 main/binary-arm64/Packages
+ cea9c2c305edd835875e16dab090e121 1904 main/binary-arm64/Packages.gz
  876ead8ad1e084ba8e96cc402054390b 167 main/binary-arm64/Release
  8d4cf1b4b31893b94feb11767a3b67e4 1605 main/binary-armhf/Packages
  ddcc708057e032f33a8ba3ceec06a985 813 main/binary-armhf/Packages.gz
  f868bf9f371974992e5c0f6d2164d5d6 167 main/binary-armhf/Release
- 7b698405f35685e5499bae351e3da302 277983 main/Contents-arm64
- 795215b24e14094f02d8d14267c9e6fe 16410 main/Contents-arm64.gz
+ 657c1e1a26da138190f3aef80cadf5ba 279253 main/Contents-arm64
+ e79cb8013485db86c20a78d834ab18ce 16559 main/Contents-arm64.gz
  e04c331f994b179b1284453c95c5753b 7978 main/Contents-armhf
  33438d13ca2c8fef162dfa312254bf6c 825 main/Contents-armhf.gz
 SHA1:
- 0bba7ae7007fecf077d1d3a9edbdf8e6c110ae5b 3800 main/binary-arm64/Packages
- 938cf0430db654fbc399da90531093ff667aea7e 1728 main/binary-arm64/Packages.gz
+ 840ba341a55bb0f325fbfb80b6ad4273d44ccbb1 4395 main/binary-arm64/Packages
+ 9e574c31970baac4e40b1da164b4584c688d31fc 1904 main/binary-arm64/Packages.gz
  cda137274332ab631694c5168d4de8226a0c43e7 167 main/binary-arm64/Release
  9bb0d2ae89856379c69ec6b44f026bb58289623a 1605 main/binary-armhf/Packages
  be4c1ef77aaa315a850c554cfd891e16496c4577 813 main/binary-armhf/Packages.gz
  14f79ec420066010fbb3ae65901f5c5d03ff79ab 167 main/binary-armhf/Release
- 82c490ad3b908186dedfe35d937e114b19b33681 277983 main/Contents-arm64
- c3d44b1fc620d03758f04c5d4b2cd5d1b469f4bc 16410 main/Contents-arm64.gz
+ 086e0333ca261ed411c8db3c93564f4b52d9a255 279253 main/Contents-arm64
+ a18b6051869fc876f19e304660111115db99c4cf 16559 main/Contents-arm64.gz
  6f54a28d83e699eeb54fd5700efb3a222c269a67 7978 main/Contents-armhf
  9ee27a2aaf6b6d1fcb7d85d06974028455f47e86 825 main/Contents-armhf.gz
 SHA256:
- aa603e4183a18c3731d76da0778b6b89369cd07d8a71502a246bd8a5fb5b8dd8 3800 main/binary-arm64/Packages
- 9e326e75356862b23df16850c2b2bece8646001deb0cb0fa4c8632c282af81cf 1728 main/binary-arm64/Packages.gz
+ 263f93ea2b03bb668bcd0c0252ef61cae29d583bab8faf1f438df8ece1e9466f 4395 main/binary-arm64/Packages
+ 176c83740966c3a277dfc295d7c0aea1a9f34adce957da9111baa8a6f2de2a84 1904 main/binary-arm64/Packages.gz
  91554ac4676a7a94085bc212adf12b78f4db85ce8af477c7755380b200ed4f97 167 main/binary-arm64/Release
  15c992ca3d0f9fe40e8caf41bad8b5017a5dd967b7f692c81e21070806abefe9 1605 main/binary-armhf/Packages
  a68a6f9853af49c5db9a6f2de196c07caf91746ce70f36b202c267768a730d7a 813 main/binary-armhf/Packages.gz
  3b7c9e6db75e1aba89f916a6aa8989a72cd5b66b7e5013a30ff2dcaaee171152 167 main/binary-armhf/Release
- d830ab3ee624c49975b008da43759420b6181221e4373e4ac82036968ac7645c 277983 main/Contents-arm64
- a9219f43d964a16036e9af05b5c645d6fc4f9d34ada223359630bad4b9a2fbcf 16410 main/Contents-arm64.gz
+ f4e57d056d4108758c66737867109360093b2a9a8980f1f372f63532fdfe7ab8 279253 main/Contents-arm64
+ 01d18da71bc14bc15dc5b5473138a1a9496f451edcc0f43d962d50c83c15ef8c 16559 main/Contents-arm64.gz
  258b1bfc82b046d94d50e2248aab38905cabb0355f7e5c0ab9f1674c116414fc 7978 main/Contents-armhf
  01c7cbc2d5903e0fd945ee23cdc5923c5fe554fe7295f5f1379d143a3f95de5f 825 main/Contents-armhf.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEOoG0OKmhB08OOJ20dqYTONv3pfkFAmgsJlYACgkQdqYTONv3
-pfkNyQwAkrcxL1jNKM1j4sx4fFzM+Cy3PewYVklI52XXtRX/LrM++c1zZghnPUxc
-y3fkFeMc7B4lUUmm8KYLzDMzKDq4Unq1hFhD5V5wHiYBvosCYN60SUAsGuJd4u1t
-D1db8/zYtuu6rOHHlnbwjmAtJpDmlmrTl25yI7jpAU+uLOHK8fsPsVM+W/oJUA+m
-9r5phV+Hpmk7iaVKp5dsRW6SWAMoUtYG3V+fcXVAerdChiphAzc2w16MG8k8Qav/
-C8UunF+uJQpm2Eo7h6Prg0vv+TetJGNefwygPyqpLi+2+wxXTiz5MdOIDnpY3JUV
-DHMGHioFYg+x844woNNcXWlPmREQR/I23PO6umJpY43+CPHIN1GEQ+BwZPxt+NeC
-/e38OGqYrhQGLJh68XPH/5V3Lb2bxjRhYO87zR+n+4eF3b3TcUydBCKBgEaYSLpo
-U6ai40/0w8WL0IgbsixXre1aKsZodmwTvbU3VhVaFv8OLmYKRilqKmoHsoh1dytP
-2Kgsr56X
-=hbro
+iQGzBAEBCgAdFiEEOoG0OKmhB08OOJ20dqYTONv3pfkFAmgvEHAACgkQdqYTONv3
+pfmjiQwAlfsh2x/A1tMS74cYoADX6gU81byUfXgf3NCyoO8U2uQtNXyUWP8fgkGo
+IrhP2ovdP4xm0Pf1qoCVPtt1mnfXRU8qwfeJNGfU+78oLAiNGyoLKwhD3Z7pNcVc
+he+Jyg+hmDUlxF8yYvBzbq+mXEQUP+uPTBewHZTbOAvC+7hxmIBAF7roAT+uZGrW
+XYx00gpdvDGXdqXz1zFtc288E2yfeFRKaM0SfbRjggM5ij7U0AUvfnXpc+6FU47t
+5/eXmoYiNei1B0DnjsTUoEXgoaFldL5GbPhylKlzUSYIxw7ylIIK0abk2Mi69WbN
+FORKMnkZXUXsWGkzIB36SmbVivD4b+57PECaFUMJ6jcEDSXgQVUSPffMFFRkXi6S
+bAlnz6GxATZ+ExqyaXx5dIUAYtn23UMEQCP7DM2loPx95TLNnfXUhPs4MB+vK8Kf
+AG6jEzeXRVHWkabliTv8f+pVfcRaCSZJsYT1vRVBCajMHmdvV/BFOVeonyBAGNf1
+epfew0Z6
+=fbB0
 -----END PGP SIGNATURE-----
