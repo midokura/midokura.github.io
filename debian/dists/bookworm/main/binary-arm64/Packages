@@ -31,6 +31,19 @@ Description: OpenPGP archive certificates of evp
  evp digitally signs its Release files. This package
  contains the archive certificates used for that.
 
+Package: hello
+Version: 2.10-8
+Architecture: arm64
+Maintainer: Your Name <your.email@example.com>
+Priority: optional
+Section: main
+Filename: pool/main/h/hello/hello_2.10-8_arm64.deb
+Size: 572
+SHA256: b481ad9bfa5c207af02f5aae4ed8a716cf209a02a6bd1bc9bac2dd48e4006501
+SHA1: 59650795864117310ed1f1ea1549613fda6b665b
+MD5sum: f9c132fbb5946c5c144f4831c3686ff5
+Description: A test package.
+
 Package: python3-edge-app-sdk
 Version: 0.2.0
 Architecture: arm64
