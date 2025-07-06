@@ -1,3 +1,19 @@
+Package: evp-archive-keyring
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Midokura <info@midokura.com>
+Installed-Size: 17
+Priority: optional
+Section: misc
+Filename: pool/focal/e/evp-archive-keyring/evp-archive-keyring_1.0.0-1_all.deb
+Size: 3028
+SHA256: b0ca1acdde027755f1f09d516646c921fca301936158832f6f989d009dabc7c5
+SHA1: 035801cbdc3646085dd0674e7073322dc2fe085c
+MD5sum: 98005b0f7a9e6680c9f5e95f96dc0574
+Description: OpenPGP archive certificates of evp
+ evp digitally signs its Release files. This package
+ contains the archive certificates used for that.
+
 Package: senscord-libcamera
 Version: 1.0.5
 Architecture: amd64

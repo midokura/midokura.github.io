@@ -2,25 +2,25 @@ Origin: Edge Virtualization Platform
 Label: Edge Virtualization Platform
 Suite: stable
 Codename: focal
-Date: Sun, 06 Jul 2025 02:30:52 UTC
+Date: Sun, 06 Jul 2025 03:08:12 UTC
 Architectures: amd64
 Components: focal
 Description: Edge Virtualization Platform - Focal (AMD64)
 MD5Sum:
- dd141456bbbd2e958930f36b0ece4dcb 461 focal/binary-amd64/Packages
- 875ce1377952410b445a1d87fe8e69e1 336 focal/binary-amd64/Packages.gz
+ bd77b7ef2a1fc54a665c5fa432a235a2 1022 focal/binary-amd64/Packages
+ 2d8c468abbbcf7b88d4099037e3db3a2 572 focal/binary-amd64/Packages.gz
  b69f20f64af98878cf5527c2ecff0f71 184 focal/binary-amd64/Release
- 14f77bd285f3eef7ef458aa8baa58f37 75888 focal/Contents-amd64
- 7240e079c0cf0c4408cc90c353a3f561 5219 focal/Contents-amd64.gz
+ 63a740c0b0a89a1b4ca7d609f6dc0340 76088 focal/Contents-amd64
+ 469600bd5ae9a554af4b50fe753fee2a 5308 focal/Contents-amd64.gz
 SHA1:
- 9e6fe85fe398d80461dff1ade7c4636de9529f51 461 focal/binary-amd64/Packages
- 7077184ea5b6e369b45dacbf0d8b6b2bbdcf1da5 336 focal/binary-amd64/Packages.gz
+ 5cd22959dbbad490738ac111beba907afb323c99 1022 focal/binary-amd64/Packages
+ 5994e52366fcf31972013482708ab6732241fa5a 572 focal/binary-amd64/Packages.gz
  e109c82e2ae1be8e69fec36d50df40eaba29e37f 184 focal/binary-amd64/Release
- 9cbfd9b3684a3782556e629d5a435412f33195f2 75888 focal/Contents-amd64
- ac26b5e3ca331fa34011f8544916eaa47c0eed9c 5219 focal/Contents-amd64.gz
+ bd13e116ef9d641548521be617b19d557aebe99b 76088 focal/Contents-amd64
+ 1e96219a082906e501075ef34808bbddc18d01a1 5308 focal/Contents-amd64.gz
 SHA256:
- af7f1839b4a27542c0ea93bd530ccd43fd715d5e4b211fbf385bcf30cf9c8739 461 focal/binary-amd64/Packages
- af97bf9e798a5d7823b0ab55654da0e35bc17154619efaff952a809346f42664 336 focal/binary-amd64/Packages.gz
+ 221ed3277c576d2f29a0b2cf6736380ac0541e8937465f031b31249944e6ad35 1022 focal/binary-amd64/Packages
+ f700697fded0b8ef38f54daddeaec88a89a1be994ff858e9b299ac0e56ddf367 572 focal/binary-amd64/Packages.gz
  6d62a72d5d3c634123c84f12f682fe484832b2ed72bc26ea632fddfd63492c92 184 focal/binary-amd64/Release
- 4821e420a9057aaef976390a6efc14ccbf765a4430914579d783bcbfa9e249a3 75888 focal/Contents-amd64
- 24f4a0de133f43241ea2e9828ceba3565a61c8f749f5d06eba0114949e7edf4c 5219 focal/Contents-amd64.gz
+ 967fb84add7ad28521eef4fba6fbaed133cb88b5a6b26283ebd267cb6ca8f691 76088 focal/Contents-amd64
+ 0949516dd8519a7714b162e6bde24eab81f6efe03e56eef17f3e58c36960a2b0 5308 focal/Contents-amd64.gz
