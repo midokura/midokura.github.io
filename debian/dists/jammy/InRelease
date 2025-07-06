@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Edge Virtualization Platform
+Label: Edge Virtualization Platform
+Suite: stable
+Codename: jammy
+Date: Sun, 06 Jul 2025 02:24:58 UTC
+Architectures: amd64
+Components: jammy
+Description: Edge Virtualization Platform - Jammy (AMD64)
+MD5Sum:
+ 1ce0288bbfed1c4fa410e525d488317d 462 jammy/binary-amd64/Packages
+ 2e5207f94f01512cf1219519da722db8 339 jammy/binary-amd64/Packages.gz
+ 677d20b84f7becc7a5e3dbed69bba86d 184 jammy/binary-amd64/Release
+ 0fb69c89a0f11c987c1b804e904224db 378184 jammy/Contents-amd64
+ c871e6848ed14d6e291d4d0f4b88fa95 24232 jammy/Contents-amd64.gz
+SHA1:
+ 905b216cef90321575796a283af8dd2d91aa7eec 462 jammy/binary-amd64/Packages
+ 0cfff4713ef91ca4f1c86553dea20efdb599cb28 339 jammy/binary-amd64/Packages.gz
+ 0e4e7fbfebeb91f167c3c76b6a9e9c8fafe5506f 184 jammy/binary-amd64/Release
+ 979e4631ba79b3993a43048fbffdda64cbdcdc1d 378184 jammy/Contents-amd64
+ c31725df82ec8b11572d1895a12865e91eeeabbb 24232 jammy/Contents-amd64.gz
+SHA256:
+ 3c05e7a9090afd776fffcd92edb9536e8e1687e4c52148426bf8d821d8e9019a 462 jammy/binary-amd64/Packages
+ 6f24f5285ae9873a801d56283c566abd3ba4c58b1a01c7843f2929f7f3cab9aa 339 jammy/binary-amd64/Packages.gz
+ 1bd5429ba7aef2e67576c2f39f163b5e856e2c20ae49a3ed131bdfefbc484497 184 jammy/binary-amd64/Release
+ f6bd5afb59ad3d0732dc5b9808d4a02ae58713fceff3d1b1b06a48c982db5011 378184 jammy/Contents-amd64
+ 46ac3b673523497d4d33271c355e0dc0d95a66a10a21e9d477a0bb70779786a9 24232 jammy/Contents-amd64.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEOoG0OKmhB08OOJ20dqYTONv3pfkFAmhp3osACgkQdqYTONv3
+pfn+9AwAlAEcbo1KmCQJNOZSjQo+ZS+spZk5XfW8LmlDRVOCeiWuvJeb1f6QUmw3
+/NmkFOG2Jt7aCgfEn4AmdcaORLEnBEJiF3Q9fyQ1kasa39gxGErOOQIx6d3Nh9gR
+EqvSptJzCWbADcGHBnnMur6cw0ex9uo9+I93MTH+3j0jB0kEvH+b5ToB9sSB+0SX
+kn/LU84KrnkApfXevAG0XZAIGmQX4grV2gOBtQxNbPC5aUqvnrvI3oky8nJkJZLe
+SM0MGYAt38ExtoB3XyC83F6fbSCDaED7SEQiNEa4/7HZLhepiJwp1Z2PocVHz8On
+gBMCfQP23oTM0buKpIOC4ZLL5dv5amoFMBvXSdw597hv0jc0rXv4VH+s6UHEpBDm
+RbnrACY0qaY6gGWWx0oUKPHgIh1CPz5DTKbmNF56H+0pQMMnKydeNrdB6vM7VPIs
+t1pkl2TBAMKlwH/oowl8D/s5LvrslutWi84FDz0r6dg7RZsFNlqV8AvbJmEUz2fg
+0A4ZdbAK
+=R7yB
+-----END PGP SIGNATURE-----
