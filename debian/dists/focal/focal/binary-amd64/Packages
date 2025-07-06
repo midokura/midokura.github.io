@@ -1,0 +1,13 @@
+Package: senscord-libcamera
+Version: 1.0.5
+Architecture: amd64
+Maintainer: Midokura <info@midokura.com>
+Priority: optional
+Section: base
+Filename: pool/focal/s/senscord-libcamera/senscord-libcamera_1.0.5_amd64.deb
+Size: 9466416
+SHA256: 63beb4896e0563789084b1e92ce91553c2a167311fe9aa8e4828b8eee0c27987
+SHA1: 006fb4423268b736addc0a41ea49ead93d8b052e
+MD5sum: 39461dc337499df3990abb9967ab0fe4
+Description: Senscord package with libcamera, wasm, and related tools.
+
