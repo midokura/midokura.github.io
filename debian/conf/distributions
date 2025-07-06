@@ -1,3 +1,4 @@
+# Debian Bookworm (ARM architectures)
 Codename: bookworm
 Suite: stable
 Architectures: arm64 armhf
@@ -8,3 +9,24 @@ Origin: Edge Virtualization Platform
 Label: Edge Virtualization Platform
 Description: Edge Virtualization Platform
 
+# Ubuntu 22.04 Jammy (AMD64)
+Codename: jammy
+Suite: stable
+Architectures: amd64
+Components: jammy
+Contents:
+SignWith: 3A81B438A9A1074F0E389DB476A61338DBF7A5F9
+Origin: Edge Virtualization Platform 
+Label: Edge Virtualization Platform
+Description: Edge Virtualization Platform - Jammy (AMD64)
+
+# Ubuntu 20.04 Focal (AMD64)
+Codename: focal
+Suite: stable
+Architectures: amd64
+Components: focal
+Contents:
+SignWith: 3A81B438A9A1074F0E389DB476A61338DBF7A5F9
+Origin: Edge Virtualization Platform 
+Label: Edge Virtualization Platform
+Description: Edge Virtualization Platform - Focal (AMD64)
