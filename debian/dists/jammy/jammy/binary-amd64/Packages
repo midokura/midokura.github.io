@@ -2,14 +2,14 @@ Package: evp-archive-keyring
 Version: 1.0.0-1
 Architecture: all
 Maintainer: Midokura <info@midokura.com>
-Installed-Size: 14
+Installed-Size: 12
 Priority: optional
 Section: misc
 Filename: pool/jammy/e/evp-archive-keyring/evp-archive-keyring_1.0.0-1_all.deb
-Size: 2764
-SHA256: a99d3d4110b3cb36005eb063727efd2632a4660c2bcf54de3cebfd8790aaa539
-SHA1: c8dfa785e601ae157bc45ff83139adff8ffa587d
-MD5sum: 5eb43e60a175c0545d754aba1f17705d
+Size: 2504
+SHA256: 135943bba418b6c58d81ad7eb4cb9bf1e72021038b6a9d8871276f11c1ce7c7e
+SHA1: cc250bbc12c78f9093f1b4b7c72b5ba50701e34c
+MD5sum: ef5c5e774943d4ac0c9baf877cb6436c
 Description: OpenPGP archive certificates of evp
  evp digitally signs its Release files. This package
  contains the archive certificates used for that.
