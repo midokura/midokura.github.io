@@ -1,0 +1,6 @@
+Archive: stable
+Component: jammy
+Origin: Edge Virtualization Platform
+Label: Edge Virtualization Platform
+Architecture: amd64
+Description: Edge Virtualization Platform - Jammy (AMD64)

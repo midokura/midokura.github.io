@@ -1,0 +1,6 @@
+Archive: stable
+Component: focal
+Origin: Edge Virtualization Platform
+Label: Edge Virtualization Platform
+Architecture: amd64
+Description: Edge Virtualization Platform - Focal (AMD64)
