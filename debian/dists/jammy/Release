@@ -2,25 +2,25 @@ Origin: Edge Virtualization Platform
 Label: Edge Virtualization Platform
 Suite: stable
 Codename: jammy
-Date: Mon, 07 Jul 2025 16:00:29 UTC
+Date: Tue, 08 Jul 2025 07:40:36 UTC
 Architectures: amd64
 Components: jammy
 Description: Edge Virtualization Platform - Jammy (AMD64)
 MD5Sum:
- 68925186c290eadedd6351b2c4c59e06 1652 jammy/binary-amd64/Packages
- 49d268e92e7707c8e0fd2ccb25f84ca7 841 jammy/binary-amd64/Packages.gz
+ dd8dd960b12e5d251066300b1e0ceff9 1091 jammy/binary-amd64/Packages
+ a6518f1f3c4e848c80c88cf99593f805 609 jammy/binary-amd64/Packages.gz
  677d20b84f7becc7a5e3dbed69bba86d 184 jammy/binary-amd64/Release
- 8fd613234e215f08aa4dae1a68999a3c 379402 jammy/Contents-amd64
- 0a6372c54d1bc1648ee7cc473b62cb6c 24488 jammy/Contents-amd64.gz
+ ccf487b75d0c65eb73e8bb719470f562 379202 jammy/Contents-amd64
+ 841f10c7b3a7bcaa8b4c51bb47215d89 24410 jammy/Contents-amd64.gz
 SHA1:
- 876226504af61c07be73796743e98f2150ebfd14 1652 jammy/binary-amd64/Packages
- d63c345724c2b55921510c8005fd023798f6abe9 841 jammy/binary-amd64/Packages.gz
+ 9b2119a20ffac26ecc0abbb6cbeb28a8a7883b15 1091 jammy/binary-amd64/Packages
+ 4ecf549578a7de0cafaf92e26eaaa7ef731ef17b 609 jammy/binary-amd64/Packages.gz
  0e4e7fbfebeb91f167c3c76b6a9e9c8fafe5506f 184 jammy/binary-amd64/Release
- 098b59583ef8993c4858da4820b97f57a09c1b6b 379402 jammy/Contents-amd64
- d374707473267dbd5bcde64cd4989963010a50f5 24488 jammy/Contents-amd64.gz
+ cc8144e29aa8cf9d94b12c161582f43d3bd60e80 379202 jammy/Contents-amd64
+ 2f5c6fe90fe8e375b625601cce42ea0b75a5ea32 24410 jammy/Contents-amd64.gz
 SHA256:
- 3d858f71b064217391634e6c4d810aab2a510f603fa87eaa5fcb1cbc7ab6d8b7 1652 jammy/binary-amd64/Packages
- ec4ea02a1c9861254af73b90dae9a8b6c8e3a4fd6d52bc7cc111d856c767e736 841 jammy/binary-amd64/Packages.gz
+ 8682e65d13d1f829d9dc7accf825ad65a3add57a7015537195e60a526c4bcf1c 1091 jammy/binary-amd64/Packages
+ d2a37f8df9b5b87c19efed495229ae4e7ab2372dff427bfb83a5300714a02506 609 jammy/binary-amd64/Packages.gz
  1bd5429ba7aef2e67576c2f39f163b5e856e2c20ae49a3ed131bdfefbc484497 184 jammy/binary-amd64/Release
- 583867a2a681ecfa425a33ee69b2c901d8e67a90f3e06bc4daee36e80f8c9309 379402 jammy/Contents-amd64
- 77ed1d9cf0b1c725275e748c890f18d3e5441789bd5b88d9585466211206ae00 24488 jammy/Contents-amd64.gz
+ f7cbcc5a2df74f8b00cee95610b93316b3ae21bd1c8419b595e920aacf4fc44e 379202 jammy/Contents-amd64
+ 0099e47b414d8226bac965a0e478725d507e4f11fd4f6c637b0bc623cb686a91 24410 jammy/Contents-amd64.gz
