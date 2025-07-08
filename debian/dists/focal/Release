@@ -2,25 +2,25 @@ Origin: Edge Virtualization Platform
 Label: Edge Virtualization Platform
 Suite: stable
 Codename: focal
-Date: Tue, 08 Jul 2025 07:44:58 UTC
+Date: Tue, 08 Jul 2025 08:31:04 UTC
 Architectures: amd64
 Components: focal
 Description: Edge Virtualization Platform - Focal (AMD64)
 MD5Sum:
- 621dfe2cacf0f7aec0c45d198bc8374e 1022 focal/binary-amd64/Packages
- 3c9d751671e2cd82714dc516afa35d43 571 focal/binary-amd64/Packages.gz
+ b18c07bc4e6a3fbf99667074b4613632 1022 focal/binary-amd64/Packages
+ 5d503e559f67e58acf32144a2320f48f 573 focal/binary-amd64/Packages.gz
  b69f20f64af98878cf5527c2ecff0f71 184 focal/binary-amd64/Release
  be26e290bfff7ab4bcc12a1261466c09 76005 focal/Contents-amd64
  d55618974e122df9abbabbe926f3482b 5289 focal/Contents-amd64.gz
 SHA1:
- d0ab03e8efe38cec0fa2b0ccdd22a6b8ca3cb705 1022 focal/binary-amd64/Packages
- 3693ce9cc1dac2b07eb0f39308fa46b312c1090d 571 focal/binary-amd64/Packages.gz
+ d4ca9c0fa7aef8842623f981120320a2d2dc9ecf 1022 focal/binary-amd64/Packages
+ 25fa859f28212214b125fc98d816fd6b0faf2222 573 focal/binary-amd64/Packages.gz
  e109c82e2ae1be8e69fec36d50df40eaba29e37f 184 focal/binary-amd64/Release
  10f9d7c3a366aa81076b5de7f424a0ceabbdd5be 76005 focal/Contents-amd64
  eac8b1dd8dae16fa4bec9dfebb86247d01a88bba 5289 focal/Contents-amd64.gz
 SHA256:
- b4975c4db0fb26a2f34ff71a8849f4c7c2b8db2341d05975265041b82238ea45 1022 focal/binary-amd64/Packages
- 0d3183c706e2d40840d760f145a8ac6fe2955ab8a0ebe628201b984c3c6de66b 571 focal/binary-amd64/Packages.gz
+ 937b0b9dc1e19c9fea705022cd76aa074eb123deb59d2cebe154606ba7cdce08 1022 focal/binary-amd64/Packages
+ 6d672c7862b9e3c40c13626f503ab4f53052178adeb68d89c1da8b82b5a327d4 573 focal/binary-amd64/Packages.gz
  6d62a72d5d3c634123c84f12f682fe484832b2ed72bc26ea632fddfd63492c92 184 focal/binary-amd64/Release
  3e39409063b00f81d6497b040f0c7fa2934406c8acaa388c8913e81c1019a1e6 76005 focal/Contents-amd64
  597ea5bc410ba57162110532886a0466ca01afc5350c18806e329cb3c9dd9137 5289 focal/Contents-amd64.gz
