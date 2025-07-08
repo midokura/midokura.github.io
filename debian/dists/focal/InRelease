@@ -5,39 +5,39 @@ Origin: Edge Virtualization Platform
 Label: Edge Virtualization Platform
 Suite: stable
 Codename: focal
-Date: Sun, 06 Jul 2025 03:08:12 UTC
+Date: Tue, 08 Jul 2025 07:44:58 UTC
 Architectures: amd64
 Components: focal
 Description: Edge Virtualization Platform - Focal (AMD64)
 MD5Sum:
- bd77b7ef2a1fc54a665c5fa432a235a2 1022 focal/binary-amd64/Packages
- 2d8c468abbbcf7b88d4099037e3db3a2 572 focal/binary-amd64/Packages.gz
+ 621dfe2cacf0f7aec0c45d198bc8374e 1022 focal/binary-amd64/Packages
+ 3c9d751671e2cd82714dc516afa35d43 571 focal/binary-amd64/Packages.gz
  b69f20f64af98878cf5527c2ecff0f71 184 focal/binary-amd64/Release
- 63a740c0b0a89a1b4ca7d609f6dc0340 76088 focal/Contents-amd64
- 469600bd5ae9a554af4b50fe753fee2a 5308 focal/Contents-amd64.gz
+ be26e290bfff7ab4bcc12a1261466c09 76005 focal/Contents-amd64
+ d55618974e122df9abbabbe926f3482b 5289 focal/Contents-amd64.gz
 SHA1:
- 5cd22959dbbad490738ac111beba907afb323c99 1022 focal/binary-amd64/Packages
- 5994e52366fcf31972013482708ab6732241fa5a 572 focal/binary-amd64/Packages.gz
+ d0ab03e8efe38cec0fa2b0ccdd22a6b8ca3cb705 1022 focal/binary-amd64/Packages
+ 3693ce9cc1dac2b07eb0f39308fa46b312c1090d 571 focal/binary-amd64/Packages.gz
  e109c82e2ae1be8e69fec36d50df40eaba29e37f 184 focal/binary-amd64/Release
- bd13e116ef9d641548521be617b19d557aebe99b 76088 focal/Contents-amd64
- 1e96219a082906e501075ef34808bbddc18d01a1 5308 focal/Contents-amd64.gz
+ 10f9d7c3a366aa81076b5de7f424a0ceabbdd5be 76005 focal/Contents-amd64
+ eac8b1dd8dae16fa4bec9dfebb86247d01a88bba 5289 focal/Contents-amd64.gz
 SHA256:
- 221ed3277c576d2f29a0b2cf6736380ac0541e8937465f031b31249944e6ad35 1022 focal/binary-amd64/Packages
- f700697fded0b8ef38f54daddeaec88a89a1be994ff858e9b299ac0e56ddf367 572 focal/binary-amd64/Packages.gz
+ b4975c4db0fb26a2f34ff71a8849f4c7c2b8db2341d05975265041b82238ea45 1022 focal/binary-amd64/Packages
+ 0d3183c706e2d40840d760f145a8ac6fe2955ab8a0ebe628201b984c3c6de66b 571 focal/binary-amd64/Packages.gz
  6d62a72d5d3c634123c84f12f682fe484832b2ed72bc26ea632fddfd63492c92 184 focal/binary-amd64/Release
- 967fb84add7ad28521eef4fba6fbaed133cb88b5a6b26283ebd267cb6ca8f691 76088 focal/Contents-amd64
- 0949516dd8519a7714b162e6bde24eab81f6efe03e56eef17f3e58c36960a2b0 5308 focal/Contents-amd64.gz
+ 3e39409063b00f81d6497b040f0c7fa2934406c8acaa388c8913e81c1019a1e6 76005 focal/Contents-amd64
+ 597ea5bc410ba57162110532886a0466ca01afc5350c18806e329cb3c9dd9137 5289 focal/Contents-amd64.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEOoG0OKmhB08OOJ20dqYTONv3pfkFAmhp6JwACgkQdqYTONv3
-pflIlwwAoRU9u9bE9JkHMwKhqVvu7FiPY14oBNimUUFK016RRZkY6oA3lq4/T4gX
-QdgKO/lgRiiGzhGkrssm6b1poCPYAUpJVSu9N7ljV9unC5NKJ4AtLoT/ubH1G0Vb
-vGU4WKfgKoFFtnK++A4BlcG4bFQXicWpTs+vzpXRwWTYuzX117WBlDnjLP2l+s8m
-GHyBmQu/Uar2bj7/mt+z6ic0CmTd3rT5onhXwqQy/RThjn76gVeSbi+x1Fm3sZ2l
-3jIKL1KuS4Y8amTPBRhHw/EX09TyvFMZ1afoygkaihxYGju5cEqiOmO1K8z0/od0
-r0Ig9bFEvx15D6SBELPCD5qBBeleU9twK5dHZOJuvwAUBtjs/Wlz1xfcu5LkLBVc
-rIvJXiEZb/cVl8XQMyamDjKo9FBtYqzsFLU8XTf35aFCv2x8IGnAEZqWnavWqNyN
-GUJZk5GC/40agCFYN+d/fD2sAgo/r7JzDNoXI1EHABTiHx8RqAx9ZiZHbgxD/nng
-FAA+pQo6
-=qS+Q
+iQGzBAEBCgAdFiEEOoG0OKmhB08OOJ20dqYTONv3pfkFAmhszHoACgkQdqYTONv3
+pflHgwv+MPac3DH7IjMcueu5wrvD/TseDNwbBA8zP6g07sQ3sTnA6JyNfhtOxvya
+us01CKgWh8dexQPFYfCKUFr09fkzFq9uXQLqmoJVZuAFjCl+g0o87C9MXAG7txdm
+WiKhPzmz6D5T6jumkEK8/8myTdNG8RQSSZjzT0ae6vq6TxaH8CrrM+sx3sKbKBmV
+BnUInFwdsjo+cv0239oqiq+7mCU3sZ1KEPxvwQ8EakBHdXn4+vlJcwumnKYJQtIf
+71W01EPNmBpTF4c8t2NBQwb7Tghw/rDSKBpuAXKhpbyRX7BVLkbiwuFTgslElEEi
+iL98O7c+Pu9FdljKY6QVpOU2JiG77wzrNI2rv9eGwKbY3CfX97xNbQjzMU7xYqx6
+ktcLntIXEQD1ZwSoVPpChRklyn/B/qqzTfHSnzD4KJTKqkQ1JxOMwCROJUPokUQj
+KX3Sandm1CMsoaV1u9668kVu6IJL2rMgXO43CyKO8d11ChiTPYr7MBspziMu+wYG
+s44HXqe7
+=pN+K
 -----END PGP SIGNATURE-----
