@@ -2,40 +2,40 @@ Origin: Edge Virtualization Platform
 Label: Edge Virtualization Platform
 Suite: stable
 Codename: bookworm
-Date: Mon, 07 Jul 2025 15:49:46 UTC
+Date: Tue, 29 Jul 2025 16:19:49 UTC
 Architectures: arm64 armhf
 Components: main
 Description: Edge Virtualization Platform
 MD5Sum:
- acf7d81b8e99384ae6e2c043c3772008 4428 main/binary-arm64/Packages
- 60bf9b6107d2b3396e1d418ba3a32853 1922 main/binary-arm64/Packages.gz
+ fc28bf72ed66dbda10682e3ea714165c 4428 main/binary-arm64/Packages
+ b936e75829629189a734fc21916452a6 1918 main/binary-arm64/Packages.gz
  876ead8ad1e084ba8e96cc402054390b 167 main/binary-arm64/Release
  8d4cf1b4b31893b94feb11767a3b67e4 1605 main/binary-armhf/Packages
  ddcc708057e032f33a8ba3ceec06a985 813 main/binary-armhf/Packages.gz
  f868bf9f371974992e5c0f6d2164d5d6 167 main/binary-armhf/Release
- 6567ad78e3505fbebabb3a9d7e40f6f2 395962 main/Contents-arm64
- 8fd74915abce76f3222da204a83c3073 25969 main/Contents-arm64.gz
+ 4d0defc49623ae10b9e31b1773b15cc9 397884 main/Contents-arm64
+ bf9be641a9e8ffac76101781b4d06c9e 26211 main/Contents-arm64.gz
  e04c331f994b179b1284453c95c5753b 7978 main/Contents-armhf
  33438d13ca2c8fef162dfa312254bf6c 825 main/Contents-armhf.gz
 SHA1:
- 116a57d5e7a09359834b32d7d9a0a21a5827ec2b 4428 main/binary-arm64/Packages
- d1c6d3d0bc78d1f516d3a30bcfb92d3751e3c352 1922 main/binary-arm64/Packages.gz
+ 5d35db4b168282b130fa6522f1db433befce1c20 4428 main/binary-arm64/Packages
+ 914c24a29c54e71fadeb416ed0d0f471b0f6a35b 1918 main/binary-arm64/Packages.gz
  cda137274332ab631694c5168d4de8226a0c43e7 167 main/binary-arm64/Release
  9bb0d2ae89856379c69ec6b44f026bb58289623a 1605 main/binary-armhf/Packages
  be4c1ef77aaa315a850c554cfd891e16496c4577 813 main/binary-armhf/Packages.gz
  14f79ec420066010fbb3ae65901f5c5d03ff79ab 167 main/binary-armhf/Release
- 93c4a64fb4074313805e855d29af774a0901a2cb 395962 main/Contents-arm64
- ca6621ffa9888383a167fa72c41b2b5d23cdbe4c 25969 main/Contents-arm64.gz
+ bb1d703ea3a365603acc833edba561425c2d5ae8 397884 main/Contents-arm64
+ e61964c8a8d65e305fe0eb8db2f9832e8b1e543b 26211 main/Contents-arm64.gz
  6f54a28d83e699eeb54fd5700efb3a222c269a67 7978 main/Contents-armhf
  9ee27a2aaf6b6d1fcb7d85d06974028455f47e86 825 main/Contents-armhf.gz
 SHA256:
- d4a07c3e8fa1655d631cd1e86b58b7cabb8c3a3651223c52de028d6b149eb085 4428 main/binary-arm64/Packages
- 69d54c020dc5ed72d6c9359fe1c9eb50c8b49e3a5fa2711a223dd6e904e4407a 1922 main/binary-arm64/Packages.gz
+ 71f82cc18a790acb2f228c48031ace13e3826d1bff34ae15c96e62ed185df8c5 4428 main/binary-arm64/Packages
+ 3e26e1dd353d3e26d689e72febcb5aa23668870b3f92fb41f61bd6da9cedc28c 1918 main/binary-arm64/Packages.gz
  91554ac4676a7a94085bc212adf12b78f4db85ce8af477c7755380b200ed4f97 167 main/binary-arm64/Release
  15c992ca3d0f9fe40e8caf41bad8b5017a5dd967b7f692c81e21070806abefe9 1605 main/binary-armhf/Packages
  a68a6f9853af49c5db9a6f2de196c07caf91746ce70f36b202c267768a730d7a 813 main/binary-armhf/Packages.gz
  3b7c9e6db75e1aba89f916a6aa8989a72cd5b66b7e5013a30ff2dcaaee171152 167 main/binary-armhf/Release
- a2b38af3e99958f95e2484440abc31221d89dc286fc724b91eb9f56672aacc87 395962 main/Contents-arm64
- d40eac37407e236221e825f607b72b8d1c96419428d8cec7ce7af40a933dbc90 25969 main/Contents-arm64.gz
+ e9773823b19dec3c6ebfd30ced2e1e4f9a7ea4006a359e82bb3d58113901e33e 397884 main/Contents-arm64
+ 438508a6fdea3df041a5793579562300f9ff25f3fb62bfad17ea91fc5a8f19f2 26211 main/Contents-arm64.gz
  258b1bfc82b046d94d50e2248aab38905cabb0355f7e5c0ab9f1674c116414fc 7978 main/Contents-armhf
  01c7cbc2d5903e0fd945ee23cdc5923c5fe554fe7295f5f1379d143a3f95de5f 825 main/Contents-armhf.gz
