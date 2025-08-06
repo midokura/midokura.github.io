@@ -32,7 +32,7 @@ Description: OpenPGP archive certificates of evp
  contains the archive certificates used for that.
 
 Package: python3-edge-app-sdk
-Version: 0.3.0
+Version: 0.3.1
 Architecture: arm64
 Maintainer: None <None>
 Installed-Size: 765
@@ -40,11 +40,11 @@ Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11), python3 (<< 
 Homepage: None
 Priority: optional
 Section: python
-Filename: pool/main/p/python3-edge-app-sdk/python3-edge-app-sdk_0.3.0_arm64.deb
-Size: 196708
-SHA256: 7838ed3c1604dd4ed2d0a6196d543322aafe0f7a6d868f843598bb960078b7c6
-SHA1: 6152d123525e3a9831f9734d2ac33bd9973b06e1
-MD5sum: 5e1864f88d59f2722bd1926670219061
+Filename: pool/main/p/python3-edge-app-sdk/python3-edge-app-sdk_0.3.1_arm64.deb
+Size: 198260
+SHA256: c1845a0a0c20be32790299fb2add83c4a8940843336733b6ddd31b77c096666d
+SHA1: adff56efb540bef394d63472f0a5c3f666168b9c
+MD5sum: 1f4a75652414f44ebc3ab014f2b2812e
 Description: Edge App SDK for Python
  Edge App SDK for Python
 
