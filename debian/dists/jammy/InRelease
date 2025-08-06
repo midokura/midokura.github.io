@@ -5,39 +5,33 @@ Origin: Edge Virtualization Platform
 Label: Edge Virtualization Platform
 Suite: stable
 Codename: jammy
-Date: Tue, 29 Jul 2025 16:11:22 UTC
+Date: Wed, 06 Aug 2025 14:34:07 UTC
 Architectures: amd64
 Components: jammy
 Description: Edge Virtualization Platform - Jammy (AMD64)
 MD5Sum:
- 03fa89070b810e32c26c478a92133756 1652 jammy/binary-amd64/Packages
- 4a65ff3d26d923661417fe3669b0590e 838 jammy/binary-amd64/Packages.gz
+ 0067d9571f6a17c30001b843452bd377 1652 jammy/binary-amd64/Packages
+ 4ea71cf8f2186aed96de0248eb605308 840 jammy/binary-amd64/Packages.gz
  677d20b84f7becc7a5e3dbed69bba86d 184 jammy/binary-amd64/Release
- 25a564231424afbe98d5539b2994d9d8 380219 jammy/Contents-amd64
- 12fb38a8ed8539e611e576ab362317e9 24597 jammy/Contents-amd64.gz
 SHA1:
- 2668a3bba369b390dd0b2282ebbbac648a3a9c2b 1652 jammy/binary-amd64/Packages
- c36d1eb3c690602045700838cb1750eb13747eff 838 jammy/binary-amd64/Packages.gz
+ 3a0721266550a2e88b797a4ae82cbc482b0eb5ce 1652 jammy/binary-amd64/Packages
+ b4b0eda295df2ba4ca1d8a3328056fbdeeeaecee 840 jammy/binary-amd64/Packages.gz
  0e4e7fbfebeb91f167c3c76b6a9e9c8fafe5506f 184 jammy/binary-amd64/Release
- 457ac9a4903549e627a2eca43b91092d23555a9e 380219 jammy/Contents-amd64
- 2a377dd4e921063391f4ce12be8f4b98c52c1dd0 24597 jammy/Contents-amd64.gz
 SHA256:
- adace909994501fc6fb3586a5b3d5da31dc794306e290c4c45685e33cbedbe64 1652 jammy/binary-amd64/Packages
- 277e651be1568512f0acfb8e6797305589790b26225d091224f9ee056af2ad16 838 jammy/binary-amd64/Packages.gz
+ fb19ff05f8090569c5ca1de113507dc3028d77125c6d7269085325b44387e850 1652 jammy/binary-amd64/Packages
+ 3e94e4d6c7ee0876ca21bb272e6800531ba694273288c892d51d4f6dcdc010fa 840 jammy/binary-amd64/Packages.gz
  1bd5429ba7aef2e67576c2f39f163b5e856e2c20ae49a3ed131bdfefbc484497 184 jammy/binary-amd64/Release
- 1eb7364fdc6938c53c621b46a09618a19720810cfb72943e3e795531d349ec95 380219 jammy/Contents-amd64
- 4e4a5d84d77a16005eeee500c7bb0cf0ce84cc26bddbe20ef5e559b946e13cf1 24597 jammy/Contents-amd64.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEOoG0OKmhB08OOJ20dqYTONv3pfkFAmiI8qsACgkQdqYTONv3
-pfkvFQwAs8UdkEcfTgyVXWhcwGIFnYMfRc6Ls/GOMNh8r6nRqi24mPWZYpjoSJeF
-Q1FzQy/+dKyOzjSWbttnQt3hu5gbVIx2nRRXs9fFHMlLZML5+id4KH9y+H8z3nBJ
-dOIcSdGcbBvTrzxhDyPTW9VqOYYmg838MOQhiiNUjYnSq2BN4sw2svyR0kIzgGjc
-0NfWe/8TX67jKKaOL5x4XoH4nFHQtCZHaqTM1bNa1wN7dgSPoyOVGCPm/qcliE6X
-ov2h3HMe+VtdKvpPVb6WZBiRqH3EZvoZ7W7PU/XwwNCSQ+R0BunZ2IS6fkdppyte
-ZaPdPEeWr3TlzdY4RNrHJVRQzv37SzYPgLpRWo7uUZ7bQ7kakKYZMpcwenG5pI1P
-dS0izfC89fbTMqXexL/tU/u7zortrmgXx6EfjwVgdqfSq+ERbIb8ng03dGEL5aRx
-R2TKHMjzm7WcdzQr9O3XQxsMnpo0rvjgZthzADYY7cFEsGMzu0v3yRqc9xE0NHU6
-amsSFco5
-=eMrS
+iQGzBAEBCgAdFiEEOoG0OKmhB08OOJ20dqYTONv3pfkFAmiTZ+AACgkQdqYTONv3
+pfkVcQv+OreE8QuSPjxrk/2sawQU1TL529JXPYgpuJth6Hk1B8ElSB0hDFdz6m/Z
+vSsktER9igAhcfdMbz6lWKusfWIawIZDVGzF85WJt4mHQf+i0KebopwCW/6LVGW+
+zUjnJkLwLQ0vldIoFg1HDJiaWeH5NX6Lrux8Xyu+4ae5KvkteD3DIZ93DJ9NM3yt
+4vAP7aAkCIF5oD1iJ6pbRn77TmW+CqAS7/Q4M6353WfY1SODJMuudgvOMbv1Cpdl
+QhX1jZvrW2Y7WZwOGT0iII3DqFTYE7NmyGdBWZL5/6yxPy80+7VSS14p/p9mn8Vm
+irbNoYk9O5WpwIpk28KPuArG+LiYAYmsVdP/QNhCefVGwqjW24dFCkTLTV/cxnUb
+rF5IkTR7Zo1HvZMJVYjTdlOTwriaRrdM/YtKvR6pbRgi/MF1Wdxwmoz1hbB/kdms
+cMq+S/ognhkYdUZ+rBWwsu0nIEqWXXpDo7QgPqdr+2K4aew2h1k9ZjzQQaS7ww3J
+Bx1SQ0QV
+=yIXM
 -----END PGP SIGNATURE-----
