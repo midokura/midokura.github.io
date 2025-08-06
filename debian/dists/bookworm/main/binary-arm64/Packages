@@ -103,16 +103,16 @@ Description: SensCord SDK
  SensCord SDK
 
 Package: senscord-libcamera
-Version: 1.0.8
+Version: 1.0.9
 Architecture: arm64
 Maintainer: Midokura <info@midokura.com>
 Priority: optional
 Section: base
-Filename: pool/main/s/senscord-libcamera/senscord-libcamera_1.0.8_arm64.deb
-Size: 38457228
-SHA256: 7cfd267efd4b984ec0d5f28072db51344dd6aa76beb39d3f848e3241ce9e85a4
-SHA1: 39dd3b6cb76a203061572093da2b531402f21593
-MD5sum: 7b98de4dd0b48a5ed8d016f11a5c6cb4
+Filename: pool/main/s/senscord-libcamera/senscord-libcamera_1.0.9_arm64.deb
+Size: 29650908
+SHA256: 96593189a3d1b1423b34c37c913a57269cce9f4110ae1e9b2dde1d7e13ee4fd4
+SHA1: ba10fa884aadc3f68d5e2dcb2494031954638dbe
+MD5sum: 5a4e293eb0992d644eb9dcad4bb1f0a8
 Description: Senscord package with libcamera, wasm, and related tools.
 
 Package: system-stub
