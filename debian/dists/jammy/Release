@@ -2,19 +2,25 @@ Origin: Edge Virtualization Platform
 Label: Edge Virtualization Platform
 Suite: stable
 Codename: jammy
-Date: Wed, 06 Aug 2025 14:34:07 UTC
+Date: Tue, 26 Aug 2025 01:22:39 UTC
 Architectures: amd64
 Components: jammy
 Description: Edge Virtualization Platform - Jammy (AMD64)
 MD5Sum:
- 0067d9571f6a17c30001b843452bd377 1652 jammy/binary-amd64/Packages
- 4ea71cf8f2186aed96de0248eb605308 840 jammy/binary-amd64/Packages.gz
+ 436d936320b702a9d08450a50e9bceb3 1654 jammy/binary-amd64/Packages
+ c0ef385010971a8794341250c80c9a43 839 jammy/binary-amd64/Packages.gz
  677d20b84f7becc7a5e3dbed69bba86d 184 jammy/binary-amd64/Release
+ f9df153c8208e6f7ad00c36b29ad7598 315783 jammy/Contents-amd64
+ ad68128b9263f5b64a201c840e2c3409 19691 jammy/Contents-amd64.gz
 SHA1:
- 3a0721266550a2e88b797a4ae82cbc482b0eb5ce 1652 jammy/binary-amd64/Packages
- b4b0eda295df2ba4ca1d8a3328056fbdeeeaecee 840 jammy/binary-amd64/Packages.gz
+ b0e69b732bee12d1a116fc404160c46deab13ba7 1654 jammy/binary-amd64/Packages
+ 39b1057787d9254b1fe64202e463378dae1e2829 839 jammy/binary-amd64/Packages.gz
  0e4e7fbfebeb91f167c3c76b6a9e9c8fafe5506f 184 jammy/binary-amd64/Release
+ 60e2485950966b21bd99092ebbcad75ba058b64f 315783 jammy/Contents-amd64
+ 467fa772a5f797363c5387c913cf59f3b010c488 19691 jammy/Contents-amd64.gz
 SHA256:
- fb19ff05f8090569c5ca1de113507dc3028d77125c6d7269085325b44387e850 1652 jammy/binary-amd64/Packages
- 3e94e4d6c7ee0876ca21bb272e6800531ba694273288c892d51d4f6dcdc010fa 840 jammy/binary-amd64/Packages.gz
+ f4f1d7f91ff8b9a6cd275a6dc3922e1db1b08eec7d0a9b22728a0fbb27058a68 1654 jammy/binary-amd64/Packages
+ 44dbe9f0be5eb61ac76e5dfbea8eed57ad021d44fc8225836f2ac5a1ebe3538a 839 jammy/binary-amd64/Packages.gz
  1bd5429ba7aef2e67576c2f39f163b5e856e2c20ae49a3ed131bdfefbc484497 184 jammy/binary-amd64/Release
+ 7f646967e151cd0fd810bf06baca06414a44276f10c8200737dc760bc5573d2b 315783 jammy/Contents-amd64
+ 485677693c4258e129bbed3338a71b6f98d46917906900fa5fbb074dc0b89e0b 19691 jammy/Contents-amd64.gz
