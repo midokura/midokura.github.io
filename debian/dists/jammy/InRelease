@@ -5,33 +5,33 @@ Origin: Edge Virtualization Platform
 Label: Edge Virtualization Platform
 Suite: stable
 Codename: jammy
-Date: Wed, 06 Aug 2025 14:34:07 UTC
+Date: Tue, 26 Aug 2025 01:19:20 UTC
 Architectures: amd64
 Components: jammy
 Description: Edge Virtualization Platform - Jammy (AMD64)
 MD5Sum:
- 0067d9571f6a17c30001b843452bd377 1652 jammy/binary-amd64/Packages
- 4ea71cf8f2186aed96de0248eb605308 840 jammy/binary-amd64/Packages.gz
+ 436d936320b702a9d08450a50e9bceb3 1654 jammy/binary-amd64/Packages
+ c0ef385010971a8794341250c80c9a43 839 jammy/binary-amd64/Packages.gz
  677d20b84f7becc7a5e3dbed69bba86d 184 jammy/binary-amd64/Release
 SHA1:
- 3a0721266550a2e88b797a4ae82cbc482b0eb5ce 1652 jammy/binary-amd64/Packages
- b4b0eda295df2ba4ca1d8a3328056fbdeeeaecee 840 jammy/binary-amd64/Packages.gz
+ b0e69b732bee12d1a116fc404160c46deab13ba7 1654 jammy/binary-amd64/Packages
+ 39b1057787d9254b1fe64202e463378dae1e2829 839 jammy/binary-amd64/Packages.gz
  0e4e7fbfebeb91f167c3c76b6a9e9c8fafe5506f 184 jammy/binary-amd64/Release
 SHA256:
- fb19ff05f8090569c5ca1de113507dc3028d77125c6d7269085325b44387e850 1652 jammy/binary-amd64/Packages
- 3e94e4d6c7ee0876ca21bb272e6800531ba694273288c892d51d4f6dcdc010fa 840 jammy/binary-amd64/Packages.gz
+ f4f1d7f91ff8b9a6cd275a6dc3922e1db1b08eec7d0a9b22728a0fbb27058a68 1654 jammy/binary-amd64/Packages
+ 44dbe9f0be5eb61ac76e5dfbea8eed57ad021d44fc8225836f2ac5a1ebe3538a 839 jammy/binary-amd64/Packages.gz
  1bd5429ba7aef2e67576c2f39f163b5e856e2c20ae49a3ed131bdfefbc484497 184 jammy/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEOoG0OKmhB08OOJ20dqYTONv3pfkFAmiTZ+AACgkQdqYTONv3
-pfkVcQv+OreE8QuSPjxrk/2sawQU1TL529JXPYgpuJth6Hk1B8ElSB0hDFdz6m/Z
-vSsktER9igAhcfdMbz6lWKusfWIawIZDVGzF85WJt4mHQf+i0KebopwCW/6LVGW+
-zUjnJkLwLQ0vldIoFg1HDJiaWeH5NX6Lrux8Xyu+4ae5KvkteD3DIZ93DJ9NM3yt
-4vAP7aAkCIF5oD1iJ6pbRn77TmW+CqAS7/Q4M6353WfY1SODJMuudgvOMbv1Cpdl
-QhX1jZvrW2Y7WZwOGT0iII3DqFTYE7NmyGdBWZL5/6yxPy80+7VSS14p/p9mn8Vm
-irbNoYk9O5WpwIpk28KPuArG+LiYAYmsVdP/QNhCefVGwqjW24dFCkTLTV/cxnUb
-rF5IkTR7Zo1HvZMJVYjTdlOTwriaRrdM/YtKvR6pbRgi/MF1Wdxwmoz1hbB/kdms
-cMq+S/ognhkYdUZ+rBWwsu0nIEqWXXpDo7QgPqdr+2K4aew2h1k9ZjzQQaS7ww3J
-Bx1SQ0QV
-=yIXM
+iQGzBAEBCgAdFiEEOoG0OKmhB08OOJ20dqYTONv3pfkFAmitC5kACgkQdqYTONv3
+pfnIRgwAsWUDeEyZ4hCSzqjAfY0TGdk7cgpwJ4Bb9sxG9yscDdzHizjAtLTeWFra
+uYw+znW/RiDRrnOAY9P/8rpN63o6NIXi4In6CW/R7lo9oIlZ+2/+W4LuF7aAp62u
+PH/KGzuCVqU424Mr0PDBIyt6ksMeKSrnfAEZnYe6qaNygjBXy/sGdjek8SW2unJC
+1lYySERpZXsB6XZNGJcDs2+EiDWvDlHKv+uA0OQfvGZNBNe3KCt2tC5r01uLLfto
+f9Zq1OLfDUiOVZiFmD02aHlHfVzIZaxOEeQ5+P0xZzCRCAoPT00Y+jbbkNEFPpJU
+dbpzNP9eGUH1m7wFRxcSYxeOzHLvRlMLQl0sYcQ/nS++rwQbgRnCPGrW30jzxY/p
+oygOiE2zHdKWUYBKHIotuTJzOQt+9yMt5czY1X2CO+FB5zxJKkedm2sN7W+PD0+p
+oGxSd5IHsnZwS/VllBMeukNxMGjPFSnlPK3DaWlD3EQubrqZyJ050runVbYXERGx
+QlMadFKW
+=n0ig
 -----END PGP SIGNATURE-----

@@ -32,15 +32,15 @@ Description: Edge App SDK for Python
  Edge App SDK for Python
 
 Package: senscord-libcamera
-Version: 1.0.9
+Version: 1.0.10
 Architecture: amd64
 Maintainer: Midokura <info@midokura.com>
 Priority: optional
 Section: base
-Filename: pool/jammy/s/senscord-libcamera/senscord-libcamera_1.0.9_amd64.deb
-Size: 52279552
-SHA256: 246420f7f6049cddd0e15023ec6b370e2c3f2a68651c4c8da3049275b350fa1f
-SHA1: 66e6693a96b501f1010c488aa00491b602ee6f04
-MD5sum: 747c7e6b187ade0194fd1a34f16b8b32
+Filename: pool/jammy/s/senscord-libcamera/senscord-libcamera_1.0.10_amd64.deb
+Size: 46294166
+SHA256: 5c683d686d1af101008db68c6a97e995d95c8db6b81558421ffc82c02c3d7b55
+SHA1: b5bdf3f182d34ef6f85e77d170bab89ba44c2657
+MD5sum: 094e18aa6731b1286f06461d9e7eea17
 Description: Senscord package with libcamera, wasm, and related tools.
 
