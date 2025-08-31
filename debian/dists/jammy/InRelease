@@ -5,39 +5,39 @@ Origin: Edge Virtualization Platform
 Label: Edge Virtualization Platform
 Suite: stable
 Codename: jammy
-Date: Tue, 26 Aug 2025 01:22:39 UTC
+Date: Sun, 31 Aug 2025 23:48:15 UTC
 Architectures: amd64
 Components: jammy
 Description: Edge Virtualization Platform - Jammy (AMD64)
 MD5Sum:
- 436d936320b702a9d08450a50e9bceb3 1654 jammy/binary-amd64/Packages
- c0ef385010971a8794341250c80c9a43 839 jammy/binary-amd64/Packages.gz
+ 9a3df48422f46050a043fe78d2a5830d 1190 jammy/binary-amd64/Packages
+ 61c78b6860aea4ccc0660ca9119acd0f 660 jammy/binary-amd64/Packages.gz
  677d20b84f7becc7a5e3dbed69bba86d 184 jammy/binary-amd64/Release
- f9df153c8208e6f7ad00c36b29ad7598 315783 jammy/Contents-amd64
- ad68128b9263f5b64a201c840e2c3409 19691 jammy/Contents-amd64.gz
+ 171c77199b86916765142e413e2ef03c 1135 jammy/Contents-amd64
+ 09ffa05bdfbe490a60ab58c48d295f1b 272 jammy/Contents-amd64.gz
 SHA1:
- b0e69b732bee12d1a116fc404160c46deab13ba7 1654 jammy/binary-amd64/Packages
- 39b1057787d9254b1fe64202e463378dae1e2829 839 jammy/binary-amd64/Packages.gz
+ 3d7dcfafd13e6fcca6bfc986bc76e6004e27da34 1190 jammy/binary-amd64/Packages
+ 5ab54fa43d65b483402c18eaebf9159dd3058dd0 660 jammy/binary-amd64/Packages.gz
  0e4e7fbfebeb91f167c3c76b6a9e9c8fafe5506f 184 jammy/binary-amd64/Release
- 60e2485950966b21bd99092ebbcad75ba058b64f 315783 jammy/Contents-amd64
- 467fa772a5f797363c5387c913cf59f3b010c488 19691 jammy/Contents-amd64.gz
+ 48918c3280291f3b005dd7a4be3e4659ebb07d5d 1135 jammy/Contents-amd64
+ e067c2046b05e76a87b7e33ee9147822d65c78d2 272 jammy/Contents-amd64.gz
 SHA256:
- f4f1d7f91ff8b9a6cd275a6dc3922e1db1b08eec7d0a9b22728a0fbb27058a68 1654 jammy/binary-amd64/Packages
- 44dbe9f0be5eb61ac76e5dfbea8eed57ad021d44fc8225836f2ac5a1ebe3538a 839 jammy/binary-amd64/Packages.gz
+ 15a522bea9145c07c5c170c1e23a42bf6090e16a9fe04917ea9f89d96701b406 1190 jammy/binary-amd64/Packages
+ a69bfa837f53ae3e1ae267ffbbc6f39b0cbcd6a31dc41dbd7f95fa2216ea9543 660 jammy/binary-amd64/Packages.gz
  1bd5429ba7aef2e67576c2f39f163b5e856e2c20ae49a3ed131bdfefbc484497 184 jammy/binary-amd64/Release
- 7f646967e151cd0fd810bf06baca06414a44276f10c8200737dc760bc5573d2b 315783 jammy/Contents-amd64
- 485677693c4258e129bbed3338a71b6f98d46917906900fa5fbb074dc0b89e0b 19691 jammy/Contents-amd64.gz
+ e15f6067f9f8c0c7bb13be806125ef30996d449608b5c94fab86329a84dce88e 1135 jammy/Contents-amd64
+ 5cb4d5fae6b12979915e222a3a863a13ffab8d1393508c3e3df1564476fa6aa7 272 jammy/Contents-amd64.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEOoG0OKmhB08OOJ20dqYTONv3pfkFAmitDGAACgkQdqYTONv3
-pflnDAv/YgLBrCg4jBaQm+ta7f1OoM/daxIeYXTZPPxLJoGPZXvD+5CTKXQre9S2
-h9YNfgKWm/YAlDOtpyq/uCpNrcWVvpAvOhdF5gUqQ4B2n27g4UbIKxWoX1B40YtY
-CUycBw/A7c3rpUvg6dSGExnN54dWWFwv8NsqIlZZC/jAsp/ZLAJ4qxqgxHFw5Hft
-gr4G2xe54ZP6Lo0LH9Bv0gF4Z2iugwIYfZz9lUlHJuuF0UeCf2cpi8DUpT6qjg5n
-GeIvHD6CfRpRcX4aCek9jYX8lioi9ZIh3o3yOsUCM0gtwZIZ3GK/luKF0Y/EQ19o
-mwr4K6AhPVhJ2FaAFDSG0F3B9DFy/Yd+9Xz6OUedqEU2uLMe/QOz7XVhF1dJX/SX
-NoVNvSmFLRpwaqA3Jf/9KtxbMNW++rU5uyFJgl8eIlwHev3LsA0lJrOvF8NJ6yhs
-jiQRvQUerzu4ndNmjBEoeN9nPgxcvK9iaW4oPVKFl5BK6ttHabGln1RI27u9+HfW
-SE6dHvbe
-=Moxe
+iQGzBAEBCgAdFiEEOoG0OKmhB08OOJ20dqYTONv3pfkFAmi030AACgkQdqYTONv3
+pfmD7wv+KkT19P9dYpSj5bWwmA/zpPC0DhMQiOO8w/7NYSw5l1xiGBYL+wC6O+lf
+v74fpGoUl26cgG2L7dQjMM5fZVLQPG771WGGSJoV4mrchGSnEdvbMXcYfvte/cyO
++4K3OB/dmAtbo8CmE6IJ/ssiMWKSSr/IHHIj45+jZZ05v91Y6Bs+xFPs9sQx1OKq
+znqJVaF4suigX4b2QF5lNIE3JLE7QfnFkrrGuynoIzYvZhG2HWfIsBqsz3Kn26ev
+o4uebQEvZXo3POE601Cq2wY0dx5WnMA8u067JeBRQ8Z8nHlZ4IaawKq06GJ3QaYr
+bcgaMEWSZo267NQbBfGei2HIOtC1uVY5YTMB7czg/SANtdKHsHk/rqcRPG5h/SHt
+Hxk2Jbo+DmnyUKKOlhpfxBWleLawXEEBKrsQ1TafYcoEpMGlgDqKAe6Q4lpQrzMA
+am+VQCqSk1pqC4vQ0pIxWdFtxso96RshfEluU/B7YaNglKmMj7DBCJXzVQbbuP9a
+ZBzJBRG9
+=Vy1I
 -----END PGP SIGNATURE-----
